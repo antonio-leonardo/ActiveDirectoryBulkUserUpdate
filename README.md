@@ -1,5 +1,5 @@
 # Active Directory: Bulk Update users properties
-This routine executes a bulk update on Active Directory users, by Organizational Unity queries. This was tested in scenario with 1 hundred or user inner domains with quickly seconds of execution.
+This routine executes a bulk update on Active Directory users, by Organizational Unity queries. This was tested in scenario with 1 hundred or user inner domains with quickly miliseconds of execution.
 
 ```powershell
 Import-Module ActiveDirectory

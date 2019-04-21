@@ -1,4 +1,4 @@
-# Active Directory: Bulk Update users properties
+# Active Directory: Bulk Update all users properties
 This routine executes a bulk update on Active Directory users, by Organizational Unity queries. This was tested in scenario with 1 hundred or user inner domains with quickly miliseconds of execution.
 
 ```powershell
